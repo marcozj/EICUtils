@@ -1,0 +1,4 @@
+username,firstname,lastname,middlename,displayname,statuskey,manager,email,departmentname,employeetype,jobdescription,jobcodedesc,passwordExpired,enabled,accountExpired,password,SAVRoles,UserGroups
+50001,Margaret,Manager,,Margaret Manager,1,igaadmin,margaretmanager@example.com,Sales,Full Time Permanent,,,false,true,false,Sav!yntp0c,ROLE_CUSTOM_ENDUSER|ROLE_CUSTOM_MANAGER|ROLE_CUSTOM_USERMANAGEMENT,
+50002,Edward,Employee,,Edward Employee,1,50001,edwardemployee@example.com,Sales,Full Time Permanent,,,false,true,false,Sav!yntp0c,ROLE_CUSTOM_ENDUSER,
+50003,Cathy,Compliance,,Cathy Compliance,1,50001,cathycompliance@example.com,Information Technology,Full Time Permanent,,,false,true,false,Sav!yntp0c,ROLE_CUSTOM_ENDUSER|ROLE_CUSTOM_MANAGER|ROLE_CUSTOM_COMPLIANCEMANAGER,
